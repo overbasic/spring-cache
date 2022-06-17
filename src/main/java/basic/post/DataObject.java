@@ -1,6 +1,7 @@
 package basic.post;
 
 public class DataObject {
+
     private final String data;
 
     private static int objectCounter = 0;

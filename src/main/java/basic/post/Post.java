@@ -20,6 +20,10 @@ public class Post {
         this.content = content;
     }
 
+    public void updateContent(String content) {
+        this.content = content;
+    }
+
     public String getContent() {
         return content;
     }
